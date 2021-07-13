@@ -142,10 +142,10 @@
         </dependency> -->
 
 		<!-- 운영 반영시 embed tomcat 주석 / ide 사용시 주석 해제 -->
-		<dependency>
+		<!-- <dependency>
 			<groupId>org.apache.tomcat.embed</groupId>
 			<artifactId>tomcat-embed-jasper</artifactId>
-		</dependency>
+		</dependency> -->
 		
 		<dependency>
 			<groupId>com.google.code.gson</groupId>
