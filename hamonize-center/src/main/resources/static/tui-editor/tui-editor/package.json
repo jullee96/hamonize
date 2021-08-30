@@ -97,7 +97,7 @@
     "resize-observer-polyfill": "^1.5.0",
     "squire-rte": "^1.9.0",
     "to-mark": "^1.1.2",
-    "tui-chart": "^3.0.1",
+    "tui-chart": "^3.11.3",
     "tui-code-snippet": "^1.5.0",
     "tui-color-picker": "^2.2.1"
   }
