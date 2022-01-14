@@ -46,7 +46,7 @@
     "node-datetime": "^2.1.2",
     "node-fetch": "^2.6.1",
     "node-machine-id": "^1.1.12",
-    "node-schedule": "^2.0.0",
+    "node-schedule": "^2.1.0",
     "ping": "^0.4.1",
     "pkg": "^5.2.1",
     "request": "^2.88.2",
