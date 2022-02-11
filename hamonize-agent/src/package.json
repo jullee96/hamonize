@@ -51,7 +51,7 @@
     "pkg": "^5.2.1",
     "request": "^2.88.2",
     "save": "^2.4.0",
-    "systeminformation": "^5.7.7",
+    "systeminformation": "^5.10.5",
     "unirest": "^0.6.0",
     "winston": "^3.3.3",
     "winston-daily-rotate-file": "^4.5.5"
