@@ -50,7 +50,7 @@
     "ping": "^0.4.1",
     "pkg": "^5.2.1",
     "request": "^2.88.2",
-    "save": "^2.4.0",
+    "save": "^2.5.0",
     "systeminformation": "^5.7.7",
     "unirest": "^0.6.0",
     "winston": "^3.3.3",
