@@ -42,18 +42,18 @@
     "line-reader": "^0.4.0",
     "md5": "^2.3.0",
     "moment": "^2.29.1",
-    "moment-timezone": "^0.5.33",
+    "moment-timezone": "^0.5.41",
     "node-datetime": "^2.1.2",
     "node-fetch": "^2.6.1",
     "node-machine-id": "^1.1.12",
     "node-schedule": "^2.0.0",
     "ping": "^0.4.1",
-    "pkg": "^5.2.1",
+    "pkg": "^5.8.0",
     "request": "^2.88.2",
-    "save": "^2.4.0",
+    "save": "^2.5.0",
     "systeminformation": "^5.7.7",
     "unirest": "^0.6.0",
-    "winston": "^3.3.3",
+    "winston": "^3.3.4",
     "winston-daily-rotate-file": "^4.5.5"
   }
 }
