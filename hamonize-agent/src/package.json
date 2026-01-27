@@ -36,7 +36,7 @@
   ],
   "dependencies": {
     "date-utils": "^1.2.21",
-    "diff": "^5.0.0",
+    "diff": "^5.2.2",
     "fs": "^0.0.2",
     "ip": "^1.1.5",
     "line-reader": "^0.4.0",
